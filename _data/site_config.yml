@@ -198,6 +198,9 @@ menu:
   - path: /test-page/
     translation_key: menu.test_page
     dropdown: []
+  - path: /test-page-2/
+    translation_key: menu.test_page_2
+    dropdown: []
 metadata_edit_url: metadata
 metadata_tabs:
   - scope: national
