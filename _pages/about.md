@@ -12,7 +12,7 @@ layout: page
 
 The [Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sustainable-development-goals/) (SDGs) are a universal call to action to:
 
-  * end poverty (test deployment)
+  * end poverty (test deployment) 2
   
   * protect the planet
   
