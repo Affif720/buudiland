@@ -43,4 +43,4 @@ image 2:
 
 
 
-![Image](/buudiland/assets/img/sample_20251121_114652.jpg)
+![Image](/buudiland/assets/img/istockphoto-1973365581-612x612_20251121_121658.jpg)
