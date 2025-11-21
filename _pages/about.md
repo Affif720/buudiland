@@ -33,3 +33,14 @@ Answers to some specific questions about this website are included on our [frequ
 ## Feedback
 To provide feedback on our SDG data please [contact us]({{ site.baseurl }}/contact-us)
 
+image 1 :
+
+
+
+![Image](/buudiland/assets/img/test_20251121_114638.jpeg)
+
+image 2:
+
+
+
+![Image](/buudiland/assets/img/sample_20251121_114652.jpg)
